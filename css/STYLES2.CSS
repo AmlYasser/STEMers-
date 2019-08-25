@@ -1,28 +1,24 @@
 body {
   color:rgb(246,207,202);
   font-family: arial;
-  font-size: 10em;
+  font-size: 2.5em;
   margin-right:200px;
   margin-left: 200px;
 
 }
- h1,h2 {
-          text-align: center;
+ h1,h2 { text-align: center;
  }
- p.a {
+ p {
   font: 15px arial, sans-serif;
 }
 
 
 h1 {
-      font-size: 5em;
- }
- img {
-   border-radius: 50%;
+      font-size: 1em;
  }
 
  body {background-color: rgb(140, 140, 140);}
 li:hover
-{font-size:5em;
+{font-size:3em;
 transition:0.4ease}
 html{background-color: white}
